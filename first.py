@@ -2,4 +2,4 @@
 # encoding: utf-8
 
 
-print "hello world"
+print "Hello Mars!"
